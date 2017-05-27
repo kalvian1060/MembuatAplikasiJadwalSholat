@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jadwal Sholat Jakarta</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="loginTitle">Login User</string>
+    <string name="loadData">Load Data</string>
+    <string name="hasilResult">Deskripsi gambar</string>
+    <string name="JadwalSholat">Jadwal Sholat</string>
+</resources>
